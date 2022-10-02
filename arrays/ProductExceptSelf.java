@@ -8,11 +8,10 @@ public class ProductExceptSelf {
         int[] arr2 = new int[nums.length];
         Arrays.fill(arr2, 1);
 
-        printArray(arr1);
-        printArray(arr2);
+        // printArray(arr1);
+        // printArray(arr2);
         
-        for (int i = 1; i < arr1.length; i++)
-        {
+        for (int i = 1; i < arr1.length; i++) {
             for (int j = i - 1; j >= 0; j--) {
                 arr1[i] *= nums[j];
             }
@@ -24,8 +23,8 @@ public class ProductExceptSelf {
             }
         }
 
-        printArray(arr1);
-        printArray(arr2);
+        // printArray(arr1);
+        // printArray(arr2);
         
         for (int i = 0; i < nums.length; i++) {
             nums[i] = arr1[i] * arr2[i]; 
@@ -35,8 +34,7 @@ public class ProductExceptSelf {
 
     public static void printArray(int[] arr) {
         System.out.println();
-		for (int i = 0; i < arr.length; i++)
-        {
+        for (int i = 0; i < arr.length; i++) {
             System.out.printf("%d\t", arr[i]);
         }
     }
