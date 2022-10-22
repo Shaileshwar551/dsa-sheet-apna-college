@@ -62,3 +62,28 @@
 13) Largest Number
 
 	https://leetcode.com/problems/largest-number/description/
+
+
+14) Subarray Sums Divisible by K
+
+	https://leetcode.com/problems/subarray-sums-divisible-by-k/
+
+
+15) Longest subarray with sum divisible by K
+
+	https://practice.geeksforgeeks.org/problems/longest-subarray-with-sum-divisible-by-k1259/1
+
+
+16) Valid Palindrome
+
+	https://leetcode.com/problems/valid-palindrome/description/
+
+
+17) Valid Anagram
+
+	https://leetcode.com/problems/valid-anagram/description/
+
+
+18) Valid Parentheses
+
+	https://leetcode.com/problems/valid-parentheses/description/
