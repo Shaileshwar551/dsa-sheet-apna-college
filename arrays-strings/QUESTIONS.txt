@@ -97,3 +97,9 @@
 20) Longest Common Prefix
 
 	https://leetcode.com/problems/longest-common-prefix/description/
+
+
+21) Convert Sentence
+
+	https://www.codingninjas.com/codestudio/problems/convert-sentence_1115490
+	https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/
