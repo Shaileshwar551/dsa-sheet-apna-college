@@ -103,3 +103,8 @@
 
 	https://www.codingninjas.com/codestudio/problems/convert-sentence_1115490
 	https://www.geeksforgeeks.org/convert-sentence-equivalent-mobile-numeric-keypad-sequence/
+
+
+22) Print all the duplicates in the input string
+
+	https://www.geeksforgeeks.org/print-all-the-duplicates-in-the-input-string/
